@@ -1,0 +1,61 @@
+body {
+  margin: 60px 80px;
+  background-color: #f2f2f2;
+}
+
+.wrapper {
+	background-color: #b2b2b2;
+	padding: 20px 35px;	
+}
+
+.cover {
+  background-color: #fbfbfb;
+  padding: 15px 0px;
+  border-radius: 3px;
+}
+
+.img-name {
+	padding-top: 20px;
+}
+
+.main-text {
+	border-top: 1px #000 solid;
+	padding-top: 30px;
+}
+
+.md-img {
+	padding: 0 30px;
+}
+
+.md-text p {
+	font-size: 18px;
+}
+
+.bio {
+	background-color: #fbfbfb;
+	margin-top: 20px;
+	padding: 15px;
+	border-radius: 2px;
+}
+
+.wiki {
+	font-size: 18px;
+}
+
+.copyright {
+	color: #686A68;
+}
+
+.ref {
+	color: #686A68;
+}
+
+.ref:hover {
+	text-decoration: none;
+	color: #000;
+}
+
+
+
+
+
